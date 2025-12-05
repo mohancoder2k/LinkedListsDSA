@@ -76,7 +76,6 @@ This project includes all essential **Linked List** topics commonly asked in cod
 - **Cycle Start Node Identification**
 - **Linked List Reversal**
 - **Merging Two Sorted Linked Lists**
-- **Palindrome Check Using Half-Reversal**
 - **Delete N-th Node From the End**
 - **Find Middle Element of the List**
 
